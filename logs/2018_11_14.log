@@ -1,0 +1,6 @@
+2018-11-14 17:10:58,917 logger.py [line:35] INFO 登录成功
+2018-11-14 17:11:25,221 logger.py [line:35] INFO 退出成功
+2018-11-14 17:11:27,931 logger.py [line:35] INFO 测试报告邮件发送成功
+2018-11-14 17:19:23,159 logger.py [line:35] INFO 登录成功
+2018-11-14 17:19:47,148 logger.py [line:35] INFO 退出成功
+2018-11-14 17:19:48,963 logger.py [line:35] INFO 测试报告邮件发送成功

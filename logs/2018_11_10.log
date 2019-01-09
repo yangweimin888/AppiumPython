@@ -1,0 +1,3 @@
+2018-11-10 14:57:20,377 logger.py [line:35] INFO 登录成功
+2018-11-10 15:39:57,944 logger.py [line:35] INFO 登录成功
+2018-11-10 16:48:34,425 logger.py [line:41] ERROR 'NoneType' object has no attribute 'text'

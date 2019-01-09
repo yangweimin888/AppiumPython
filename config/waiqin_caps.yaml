@@ -1,0 +1,12 @@
+platformName: Android
+# 真机
+platformVersion: 5.1.1
+deviceName: aa19503
+noReset: True
+noSign: True
+unicodeKeyBoard: True
+resetKeyboard: True
+appPackage: com.taobao.mobile.dipei
+appActivity: com.eg.android.AlipayGphone.AlipayLogin
+ip: 127.0.0.1
+port: 4723
